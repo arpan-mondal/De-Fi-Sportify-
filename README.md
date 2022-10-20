@@ -11,7 +11,7 @@
 2. Collage
 3. Hobby 
 4. CONTRIBUTOR (Search this files and just update to get a PR accepted)
-### _Your PR will automatically able to merge and enjoy free t-shirt
+#### Your PR will automatically able to merge and enjoy free t-shirt
 
 #### _Read this in [other languages](translations/Translations.md)._
 
