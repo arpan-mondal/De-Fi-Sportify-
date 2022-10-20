@@ -5,8 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-### _First a fall sign in for Hacktoberfest 
-### _Contribute in these 4 md files for 4 PR
+#  First a fall sign in for Hacktoberfest 
+
+#  Contribute in these 4 md files for 4 PR
 1. GMAIL
 2. Collage
 3. Hobby 
