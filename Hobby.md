@@ -4,3 +4,4 @@
 - [Coding](https://github.com/arpan-mondal)
 - [Reading](https://github.com/rikta99)
 - [Drinking Water](https://github.com/neelghosh1234)
+- [Playing Guitar](https://github.com/SayanRicky)
