@@ -3,3 +3,4 @@
 <!-- prettier-ignore-start -->
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Rikta Pramanik ](https://github.com/rikta99)
+- [Neel Ghosh](https://github.com/neelghosh1234)
