@@ -12,7 +12,7 @@
 2. Collage
 3. Hobby 
 4. CONTRIBUTOR (Search this files and just update to get a PR accepted)
-#### Your PR will automatically able to merge and enjoy free t-shirt
+#### Your PR will automatically able to merge and enjoy free t-shirt or Plant a tree of your name from Hacktoberfest 2022
 
 #### _Read this in [other languages](translations/Translations.md)._
 
