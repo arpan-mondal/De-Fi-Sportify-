@@ -2,4 +2,4 @@
 
 <!-- prettier-ignore-start -->
 - [Arpan Mondal](https://github.com/arpan-mondal)
-- - [Rikta Pramanik ](https://github.com/rikta99)
+- [Rikta Pramanik ](https://github.com/rikta99)
