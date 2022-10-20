@@ -16,10 +16,6 @@
 
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/arpan-mondal/De-Fi-Sportify-/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=arpan-mondal
-/
-De-Fi-Sportify-
-"/>
 </a>
 
 #### _Read this in [other languages](translations/Translations.md)._
