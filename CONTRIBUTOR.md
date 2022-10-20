@@ -5,3 +5,4 @@
 - [Rikta Pramanik ](https://github.com/rikta99)
 - [Neel Ghosh](https://github.com/neelghosh1234)
 - [Sayan Das](https://github.com/SayanRicky)
+- [Romit Roy](https://github.com/MrRoyzz)
