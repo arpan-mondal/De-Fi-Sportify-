@@ -8,3 +8,4 @@
 - [Romit Roy](https://github.com/MrRoyzz)
 - [Argha Ghosh](https://github.com/argha7417)
 - [Subhajit Mondal](https://github.com/subhajit9932)
+- [Mainak Banerjee](https://github.com/Mainak57)
