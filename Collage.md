@@ -2,3 +2,4 @@
 
 <!-- prettier-ignore-start -->
 - [Sister Nivedita University](https://github.com/arpan-mondal)
+- [Vivekananda School](https://github.com/arpan-mondal)
