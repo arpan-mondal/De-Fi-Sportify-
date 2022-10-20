@@ -1,4 +1,4 @@
-#De-Fi-Sportify
+#De-Fi-Sportify Sub-branch Project of MegaVerse Corporation
  
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/newworkspace-4xu3381/shared_invite/zt-1i1hem6hj-OmdKC6b0~Nklgb9VPrjN~A)
