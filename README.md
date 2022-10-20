@@ -1,7 +1,7 @@
 #De-Fi-Sportify
  
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://www.canva.com/design/DAFPimSFF9E/SdGmFfZJmAX4Y6oWrww5Eg/view?utm_content=DAFPimSFF9E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">](https://megaverse.co.in)
+[<img align="right" width="150" (https://megaverse.co.in)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
