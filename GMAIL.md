@@ -4,3 +4,4 @@
 - [arpan.mondal633@gmail.com](https://github.com/arpan-mondal)
 - [prarikta937@gmail.com](https://github.com/rikta99)
 - [nghoserobinhood@gmail.com](https://github.com/neelghosh1234)
+- [sayanricky24@gmail.com](https://github.com/SayanRicky)
