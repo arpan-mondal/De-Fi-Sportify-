@@ -5,11 +5,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+### _First a fall sign in for Hacktoberfest 
 ### _Contribute in these 4 md files for 4 PR
 1. GMAIL
 2. Collage
 3. Hobby 
 4. CONTRIBUTOR (Search this files and just update to get a PR accepted)
+### _Your PR will automatically able to merge and enjoy free t-shirt
 
 #### _Read this in [other languages](translations/Translations.md)._
 
