@@ -14,6 +14,14 @@
 4. CONTRIBUTOR (Search this files and just update to get a PR accepted)
 #### Your PR will automatically able to merge and enjoy free t-shirt or Plant a tree of your name from Hacktoberfest 2022
 
+## Thanks to all the contributors ❤️
+<a href = "https://github.com/arpan-mondal/De-Fi-Sportify-/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=arpan-mondal
+/
+De-Fi-Sportify-
+"/>
+</a>
+
 #### _Read this in [other languages](translations/Translations.md)._
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
