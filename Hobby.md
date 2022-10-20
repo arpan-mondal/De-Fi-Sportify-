@@ -2,3 +2,4 @@
 
 <!-- prettier-ignore-start -->
 - [Coding](https://github.com/arpan-mondal)
+- [Reading](https://github.com/rikta99)
