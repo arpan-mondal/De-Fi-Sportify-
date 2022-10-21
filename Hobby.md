@@ -1,6 +1,7 @@
 # Hobby : Update your hobby and Create a PR
 
 <!-- prettier-ignore-start -->
+
 - [Coding](https://github.com/arpan-mondal)
 - [Reading](https://github.com/rikta99)
 - [Drinking Water](https://github.com/neelghosh1234)
@@ -8,6 +9,6 @@
 - [Programming](https://github.com/MrRoyzz)
 - [Sleeping](https://github.com/argha7417)
 - [Online gaming](https://github.com/subhajit9932)
- [reading book](https://github.com/Mainak57)
+  [reading book](https://github.com/Mainak57)
 - [Football](https://github.com/Pranjal360Agarwal)
- 
+- [Cricket](https://github.com/aryan0103raj)
