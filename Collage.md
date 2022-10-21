@@ -9,3 +9,4 @@
 - [Sister Nivedita University](https://github.com/argha7417)
 -[Sister Nivedita University](https://github.com/subhajit9932)
 -[Sister Nivedita University](https://github.com/Mainak57)
+- [Jadavpur University](https://github.com/aryan0103raj)
