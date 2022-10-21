@@ -9,3 +9,4 @@
 - [Argha Ghosh](https://github.com/argha7417)
 - [Subhajit Mondal](https://github.com/subhajit9932)
 - [Mainak Banerjee](https://github.com/Mainak57)
+- [Aryan Raj](https://github.com/aryan0103raj)
