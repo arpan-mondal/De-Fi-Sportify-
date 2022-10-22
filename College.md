@@ -1,5 +1,5 @@
 # Collage : Enter your collage name and Create Pull Request
-
+// Add your College
 <!-- prettier-ignore-start -->
 
 - [Sister Nivedita University](https://github.com/arpan-mondal)
