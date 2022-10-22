@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 
 - [Arpan Mondal](https://github.com/arpan-mondal)
+- [Shivansh Dwivedi](https://github.com/shivansh-magnus)
 - [Rikta Pramanik ](https://github.com/rikta99)
 - [Neel Ghosh](https://github.com/neelghosh1234)
 - [Sayan Das](https://github.com/SayanRicky)
