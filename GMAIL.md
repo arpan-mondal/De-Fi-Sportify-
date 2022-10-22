@@ -13,6 +13,6 @@
 - [mainakbanerjee79@gmail.com](https://github.com/Mainak57)
 - [materagarwal@gmail.com](https://github.com/Pranjal360Agarwal)
 - [aryan0103.raj@gmail.com](https://github.com/aryan0103raj)
-//sayan kundu
+- ###[sayankundu0302@gmail.com](https://github.com/SayanKundu10)
 - [debmalyabhar1@gmail.com](https://github.com/debmalyabhar)
 - [adkhikarisouma7@gmail.com](https://github.com/souma07ad)
