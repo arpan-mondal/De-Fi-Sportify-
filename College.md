@@ -14,3 +14,4 @@
 - [Jadavpur University](https://github.com/aryan0103raj)
 - [Sister Nivedita University](https://github.com/SayanKundu10)
 - [Sister Nivedita University](https://github.com/debmalyabhar)
+- [Sister Nivedita University](https://github.com/soumya07ad)
