@@ -13,3 +13,4 @@
 - [Jaypee University of Engineering and Technology](https://github.com/Pranjal360Agarwal)
 - [Jadavpur University](https://github.com/aryan0103raj)
 - [Sister Nivedita University](https://github.com/SayanKundu10)
+- [Sister Nivedita University](https://github.com/debmalyabhar)
