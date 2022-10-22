@@ -15,3 +15,4 @@
 - [aryan0103.raj@gmail.com](https://github.com/aryan0103raj)
 //sayan kundu
 - [debmalyabhar1@gmail.com](https://github.com/debmalyabhar)
+- [adkhikarisouma7@gmail.com](https://github.com/souma07ad)
