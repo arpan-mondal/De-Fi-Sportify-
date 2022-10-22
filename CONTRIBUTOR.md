@@ -13,3 +13,4 @@
 - [Pranjal Agarwal](https://github.com/Pranjal360Agarwal)
 - [Aryan Raj](https://github.com/aryan0103raj)
 - [Sayan Kundu](https://github.com/SayanKundu10)
+- [Debmalya Bhar](https://github.com/debmalyabhar)
