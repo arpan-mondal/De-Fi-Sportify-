@@ -15,3 +15,4 @@
 - [Aryan Raj](https://github.com/aryan0103raj)
 - [Sayan Kundu](https://github.com/SayanKundu10)
 - [Debmalya Bhar](https://github.com/debmalyabhar)
+- [Soumyadip Das Adhikari](https://github.com/soumya07ad)
