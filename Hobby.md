@@ -9,6 +9,7 @@
 - [Programming](https://github.com/MrRoyzz)
 - [Sleeping](https://github.com/argha7417)
 - [Online gaming](https://github.com/subhajit9932)
+- [Painting](https://github.com/aamrin786)
   [reading book](https://github.com/Mainak57)
 - [Football](https://github.com/Pranjal360Agarwal)
 - [Cricket](https://github.com/aryan0103raj)
