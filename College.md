@@ -15,3 +15,4 @@
 - [Sister Nivedita University](https://github.com/SayanKundu10)
 - [Sister Nivedita University](https://github.com/debmalyabhar)
 - [Sister Nivedita University](https://github.com/soumya07ad)
+- [Techno Main Salt Lake](https://github.com/AllMightLegend)
