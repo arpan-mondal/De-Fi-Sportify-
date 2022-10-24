@@ -8,6 +8,7 @@
 - [Playing Guitar](https://github.com/SayanRicky)
 - [Programming](https://github.com/MrRoyzz)
 - [Sleeping](https://github.com/argha7417)
+- [Reading](https://github.com/KristenHarman)
 - [Online gaming](https://github.com/subhajit9932)
 - [Painting](https://github.com/aamrin786)
   [reading book](https://github.com/Mainak57)
