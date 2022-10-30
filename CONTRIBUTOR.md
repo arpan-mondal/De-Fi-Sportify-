@@ -18,3 +18,4 @@
 - [Soumyadip Das Adhikari](https://github.com/soumya07ad)
 - [Srinjoy Sen Chowdhury](https://github.com/AllMightLegend)
 - [Haathi Gosh](https://github.com/ChaHaoIn)
+- [Gopal Bhar](https://github.com/hello70world)
