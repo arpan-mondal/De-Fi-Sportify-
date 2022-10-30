@@ -18,3 +18,4 @@
 - [Sister Nivedita University](https://github.com/soumya07ad)
 - [Techno Main Salt Lake](https://github.com/AllMightLegend)
 - [Techno Main Salt Lake](https://github.com/ChaoHaoIn)
+- [Jadavpur University](https://github.com/hello70world)
