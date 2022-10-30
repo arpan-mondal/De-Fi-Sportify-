@@ -18,3 +18,4 @@
 - [coding](https://github.com/debmalyabhar)
 - [coding](https://github.com/soumya07ad)
 - [coding](https://github.com/AllMightLegend)
+- [gaming](https://github.com/ChaHaoIn)
